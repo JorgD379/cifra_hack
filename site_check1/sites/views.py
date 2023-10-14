@@ -244,3 +244,7 @@ def offer(request):
     else:
         form = MyForm()
         return render(request, 'offer.html', {'form': form})
+
+
+def pay(request):
+    return render(request, 'pay.html')

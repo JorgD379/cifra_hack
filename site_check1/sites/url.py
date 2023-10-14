@@ -16,5 +16,6 @@ urlpatterns = [
     path('train_csv/', views.train_csv, name='train_csv'),
     path('use_mod', views.use_mod, name='use_mod'),
     path('offer', views.offer, name='offer'),
+    path('pay', views.pay, name='pay'),
     # path('upload-zip/', views.upload_zip, name='upload_zip'),
 ]
