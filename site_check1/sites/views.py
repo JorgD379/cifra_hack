@@ -217,8 +217,9 @@ def use_mod(request):
                     writer.writerow([prediction])
             download_link = os.path.join(settings.MEDIA_URL, 'predictions.csv')
             print('--------------------------------------')
-            return render(request, 'memod1.html', {'response_content': response_content, 'download_link': download_link})
-    return render(request, 'memod.html')
+            return render(request, 'memod1.html', {'response_content': response_content, 'download_link': download_link, "name" :file_name})
+
+    return render(request, 'memod.html', {'name' : file_name})
 
 
 def offer(request):
