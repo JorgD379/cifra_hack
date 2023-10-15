@@ -39,7 +39,8 @@
 --------------
 
 
-![image](https://github.com/maksimov-m/cifra_hack/assets/25037328/49976bd5-b872-43ba-b04a-7430c5831c75){width=250px}
+![image](https://github.com/maksimov-m/cifra_hack/assets/25037328/5c38c4ab-9235-4a98-917a-8949382faf0e)
+
 
 
 --------------
