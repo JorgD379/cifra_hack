@@ -49,7 +49,7 @@
 ДЕМО
 --------------
 Записи примера работы с сервисом
-[https://drive.google.com/drive/folders/1WSsDSsEsTFP42RS12bbCDLrwvDPBphmX?usp=sharing](https://drive.google.com/drive/folders/1eBNeN2cturPsuuKxUnjogRjBzkacvU-a)
+[[https://drive.google.com/drive/folders/1WSsDSsEsTFP42RS12bbCDLrwvDPBphmX?usp=sharing](https://drive.google.com/drive/folders/1eBNeN2cturPsuuKxUnjogRjBzkacvU-a)](https://drive.google.com/file/d/1TUraRgcF2Z4_AZq283IQ8TYaiTwbPOzT/view?usp=sharing)
 --------------
 
 
