@@ -96,6 +96,8 @@ input[type="text"]{
     margin-bottom: 24px;
 }
 
+
+
 input[type="password"]{
     display: flex;
     background-color:#FFF6F4 ;
@@ -153,6 +155,16 @@ form button {
     border: none;
     padding: 10px 20px;
     border-radius: 3px;
+}
+
+input[type="email"] {
+    /* Ваши стили здесь, например, измените цвет фона и текста */
+    background-color: #F0F0F0;
+    color: #333;
+    /* Другие стили, такие как ширина и отступы */
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
 }
 
 
